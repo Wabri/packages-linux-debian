@@ -1,4 +1,4 @@
-# Pycharm Community edition - https://www.jetbrains.com/pycharm/
+# Pycharm Community edition - https://www.jetbrains.com/pycharm/ - ide
 cd ~
 wget -O pycharm.tar.gz https://download.jetbrains.com/python/pycharm-community-2018.2.4.tar.gz
 tar zxvf pycharm.tar.gz

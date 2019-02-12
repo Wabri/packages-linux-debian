@@ -1,4 +1,4 @@
-# An unofficial Trello desktop app - https://github.com/danielchatfield/trello-desktop
+# An unofficial Trello desktop app - https://github.com/danielchatfield/trello-desktop - chat
 mkdir trello
 cd trello
 wget -o trello.zip https://github.com/danielchatfield/trello-desktop/releases/download/v0.1.9/Trello-linux-0.1.9.zip

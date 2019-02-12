@@ -1,4 +1,4 @@
-# IntelliJ IDEA Community edition - https://www.jetbrains.com/idea/
+# IntelliJ IDEA Community edition - https://www.jetbrains.com/idea/ - ide
 cd ~
 wget -O idea.tar.gz https://download.jetbrains.com/idea/ideaIC-2018.2.5.tar.gz
 tar zxvf idea.tar.gz

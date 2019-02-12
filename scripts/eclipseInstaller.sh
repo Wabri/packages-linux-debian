@@ -1,4 +1,4 @@
-# Eclipse IDE installer - https://www.eclipse.org/
+# Eclipse IDE installer - https://www.eclipse.org/ - ide
 cd ~
 wget -O eclipseInst.tar.gz ftp.fau.de/eclipse/oomph/products/eclipse-inst-linux64.tar.gz
 tar zxvf eclipseInst.tar.gz
